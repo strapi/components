@@ -38,7 +38,8 @@
       "regex": "[^,]+"
     },
     "metaRobots": {
-      "type": "string"
+      "type": "string",
+      "regex": "[^,]+"
     },
     "structuredData": {
       "type": "json"
